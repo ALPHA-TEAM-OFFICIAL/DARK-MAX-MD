@@ -115,7 +115,7 @@
             "required": true
       },
           "WORK_TYPE": {
-            "description": "මේ බොට්ගේ public කියන්නේ public,private mod දෙකම",
+            "description": "public or private",
             "value": "public" ,
             "required": true
       },
